@@ -8,8 +8,9 @@ Weather App Using NodeJs
 # How to use
 1. Clone repository to local
 2. cd weather_app
-3. run "npm init" and enter required details or use "npm init -y"
-4. Windows CMD : "./node_modules/.bin/env-cmd" -f ./config/dev.env node app.js Indiana  
+3. Put your access token in Config/dev.env file. Don't put any space after "=".
+4. run "npm init" and enter required details or use "npm init -y"
+5. Windows CMD : "./node_modules/.bin/env-cmd" -f ./config/dev.env node app.js Indiana  
  
    OR  
    
