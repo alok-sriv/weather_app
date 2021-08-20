@@ -4,8 +4,6 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js", 
-    "dev": "nodemon app.js",
     "app": "env-cmd -f ./config/dev.env node app.js"
   },
   "author": "",
